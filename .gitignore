@@ -2,7 +2,5 @@ coverage/
 node_modules/
 .idea/
 .vscode/
-/index.js
-/index.d.ts
 /test.js
 *.map
