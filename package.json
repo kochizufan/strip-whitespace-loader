@@ -51,6 +51,6 @@
     "typescript": "^2.6.2"
   },
   "dependencies": {
-    "strip-whitespace": "^1.0.7"
+    "strip-whitespace": "github:kochizufan/strip-whitespace#fix_dq_npm"
   }
 }
